@@ -1,0 +1,18 @@
+a:link, a:visited{
+    color: black
+    }
+
+.blurb{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+#response{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
